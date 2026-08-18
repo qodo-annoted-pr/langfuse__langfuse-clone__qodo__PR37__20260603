@@ -210,7 +210,7 @@
     "vite": "^7.0.5",
     "vite-tsconfig-paths": "^6.1.1",
     "vitest": "^4.1.4",
-    "wait-for-expect": "^3.0.2"
+    "wait-for-expect": "^4.0.0"
   },
   "ct3aMetadata": {
     "initVersion": "7.13.0"
